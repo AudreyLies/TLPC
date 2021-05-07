@@ -11,7 +11,7 @@
          "groups":{
             "TLPC":"/proxy/api/imgur/chapter/k01kqjs/"
          },
-         "last_updated":"1616368746"
+         "last_updated":"1620425429"
       },
    "2": {
       "title": "DD - Born Again 02 Purgatory",
@@ -19,7 +19,7 @@
       "groups": {
         "TLPC": "/proxy/api/imgur/chapter/DiGTZXL/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620425429"
     },
        "3": {
       "title": "DD - Born Again 03 Pariah",
@@ -27,7 +27,7 @@
       "groups": {
         "TLPC": "/proxy/api/imgur/chapter/Yw7fs55/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620425429"
     },
            "4": {
       "title": "DD - Born Again 04 Born Again",
@@ -35,7 +35,7 @@
       "groups": {
         "TLPC": "/proxy/api/imgur/chapter/HOOXHeD/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620425429"
     },
            "5": {
       "title": "DD - Born Again 05 Saved",
@@ -43,7 +43,7 @@
       "groups": {
         "TLPC": "/proxy/api/imgur/chapter/ZT4hAsb/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620425429"
     },
            "6": {
       "title": "DD - Born Again 06 God and Country",
@@ -51,7 +51,7 @@
       "groups": {
         "TLPC": "/proxy/api/imgur/chapter/ZP9tn09/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620425429"
     },
            "7": {
       "title": "DD - Born Again 07 Armaggeddon",
@@ -59,7 +59,7 @@
       "groups": {
         "TLPC": "/proxy/api/imgur/chapter/AJ2lW2L/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620425429"
     }  
     	}
 }
