@@ -1,0 +1,17 @@
+{
+   "title":"Motor Girl",
+   "description":"La historia detalla el descenso de Daredevil a la locura y la indigencia a manos de Kingpin, así como una lucha posterior para construir una nueva vida para él.",
+   "artist":"Terry Moore",
+   "author":"Terry Moore",
+   "cover":"https://comichub.blob.core.windows.net/high/d16df10d-bfdb-472c-a87a-32dfd0f97832.jpg",
+   "chapters":{
+      "1":{
+         "title":"DD - Born Again 01 Apocalypse",
+         "volume":"1",
+         "groups":{
+            "TLPC":"/proxy/api/imgur/chapter/8ZF4KEl/"
+         },
+         "last_updated":"1620425429"
+    }  
+    	}
+}
